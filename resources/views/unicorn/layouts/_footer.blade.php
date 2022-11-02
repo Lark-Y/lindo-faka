@@ -3,7 +3,7 @@
     <div class="row">
         <div class="col-12 text-center">
             <div class="author">
-                Powered by：<a href="http://dujiaoka.com">@独角数卡</a>
+                Powered by <a href="https://t.me/LindoStudio" target="_blank">零度工作室:@LindoStudio</a>
             </div>
             <div class="custom">
                 {!! dujiaoka_config_get('footer') !!}
