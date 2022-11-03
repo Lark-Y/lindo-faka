@@ -4,7 +4,7 @@
         <div class="row">
             <div class="col-md-6">
             	<div class="footer-links">
-                    Powered by <a href="https://t.me/LindoStudio" target="_blank">零度工作室:@LindoStudio</a>
+                    <a href="https://t.me/LindoStudio" target="_blank">零度工作室:@LindoStudio</a>
                 </div>
             </div>
             <div class="col-md-6">

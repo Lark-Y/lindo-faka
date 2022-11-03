@@ -65,7 +65,7 @@ class MailSend implements ShouldQueue
             'username' => $sysConfig['username'] ?? '',
             'from'      =>  [
                 'address'   =>   $sysConfig['from_address'] ?? '',
-                'name'      =>  $sysConfig['from_name'] ?? '独角发卡'
+                'name'      =>  $sysConfig['from_name'] ?? '零度发卡'
             ],
             'password' => $sysConfig['password'] ?? '',
             'encryption' => $sysConfig['encryption'] ?? ''
