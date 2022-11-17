@@ -70,6 +70,7 @@ return [
             'root' => public_path('uploads'),
             'visibility' => 'public',
             'url' => env('APP_URL').'/uploads',
+            'powerBy' => env('USE_POWER_BY', true),
         ],
     ],
 

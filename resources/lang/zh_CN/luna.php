@@ -16,7 +16,7 @@ return [
     'buy_goods_msg' => '商品详情',
     'buy_num' => '购买数量',
     'buy_email' => '邮&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;箱',
-    'buy_email_tips' => '填写你的邮箱',
+    'buy_email_tips' => '填写接收通知和卡密的邮箱',
     'buy_disc' => '优&nbsp;&nbsp;惠&nbsp;&nbsp;码',
     'buy_disc_tips' => '填写你的优惠码',
     'buy_pass' => '查询密码',
