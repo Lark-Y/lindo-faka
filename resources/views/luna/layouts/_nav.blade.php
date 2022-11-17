@@ -19,7 +19,7 @@
                 </div>
                 @yield('notice')
             </div>
-        </div>
+        </div>indu
     </div>
 </div>
 @yield('notice_min')

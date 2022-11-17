@@ -1,4 +1,4 @@
-FROM centos:centos7
+FROM webdevops/php-nginx:7.4
 COPY . /app
 WORKDIR /app
 RUN rm -rf Dockerfile
