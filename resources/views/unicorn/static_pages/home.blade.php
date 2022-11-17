@@ -9,7 +9,7 @@
                             <div class="jumbotron jumbotron-fluid p-1">
                                 <div class="container">
                                     <h4 class="">{{ __('dujiaoka.site_announcement') }}：</h4>
-                                    <p class="lead">{!! dujiaoka_config_get('notice') !!}</p>
+        shouye                            <p class="lead">{!! dujiaoka_config_get('notice') !!}</p>
                                 </div>
                             </div>
                         </div>

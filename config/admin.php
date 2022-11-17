@@ -1,5 +1,4 @@
 <?php
-
 return [
 
     /*
@@ -22,11 +21,12 @@ return [
     | `img` tag, eg '<img src="http://logo-url" alt="Admin logo">'.
     |
     */
-    'logo' => '<img src="/vendor/dujiaoka-admin/images/logo.jpg" width="35"> &nbsp;零度 数卡',
+    'logo' => '零度数卡',
+//    'logo' => '<img src="/vendor/dujiaoka-admin/images/logo.jpg/vendor/dujiaoka-admin/images/logo.jpg" width=""> &nbsp;零度数卡',
 
     /*
     |--------------------------------------------------------------------------
-    | dcat-admin mini logo
+    | dcat-admin mini logoshouye
     |--------------------------------------------------------------------------
     |
     | The logo of all admin pages when the sidebar menu is collapsed. You can
